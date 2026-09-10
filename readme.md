@@ -1,7 +1,7 @@
 # Simulating Old Windows Media Player Animations & Connecting It Into A Radio Syncer
 
-index.html shows all the effects,
-radio.html is the actual widget
+0. index.html shows all the effects
+1. radio.html is the actual widget
 
 free to use
 
